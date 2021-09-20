@@ -1,0 +1,11 @@
+{
+  "name": "vite-cli-james",
+  "private": true,
+  "description": "This is a demo of implement vite cli",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
